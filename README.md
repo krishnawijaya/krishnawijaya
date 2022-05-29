@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @krishnawijaya
-- 👀 I’m interested in Web & Mobile Apps Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me ...
 
 <!---
 krishnawijaya/krishnawijaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
